@@ -2,6 +2,7 @@
 Thumbs.db
 db.json
 *.log
+/qiniu.js
 node_modules/
 public/
 .deploy*/

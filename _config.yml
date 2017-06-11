@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Litten的博客
-subtitle: 胆小认生，不易相处
-description: 华中科技大学09级，就职于腾讯SNG。擅长各项前端技能，深入研究移动端开发与前端性能。非专业视觉设计师。此为博客一枚。 
-author: Litten
-email: litten225@qq.com
-keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
+title: zebing的博客
+subtitle: 认真勤奋有想法
+description: zebing,zebing的微薄,湖南科技大学14级,擅长前端技能，深入了解后端php。此为博客一枚 
+author: zebing
+email: 1270105911@qq.com
+keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,html,css,css3,vue,node,php,thinkphp5,thinkphp"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: //litten.me
+url: //zebingfu.cn
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -96,21 +96,9 @@ exclude_generator:
 #  branch: master
 
 deploy:
-  type: rsync
-  host: 120.24.181.238
-  user: root
-  root: /usr/local/nginx/litten.me/
-  port: 22
-
-sitemap:
-    path: sitemap.xml
-baidusitemap:
-    path: baidusitemap.xm
-
-feed:
-    type: atom
-    path: atom.xml
-    limit: 100
+  type: git
+  repo: https://github.com/zebing/zebing.github.io.git
+  branch: master
 
 jsonContent:
   meta: false

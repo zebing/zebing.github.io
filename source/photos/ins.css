@@ -26,8 +26,8 @@
 }
 .instagram .thumb {
 	width: 25%;
-	height: 0;
-	padding-bottom: 25%;
+	/*height: 0;*/
+	/*padding-bottom: 25%;*/
 	position: relative;
 	display: inline-block;
 	text-align: center;
@@ -48,6 +48,7 @@
 	clear: both;
 	width: 100%;
 	text-align: left;
+	margin-bottom: 3.3%;
 }
 .instagram .album li{
 	list-style: none;
@@ -129,7 +130,7 @@
 @media screen and (max-width:600px) {
 	.instagram .thumb {
 		width: 50%;
-		padding-bottom: 50%;
+		/*padding-bottom: 50%;*/
 	}
 	.instagram .album li {
 		width: 100%;
