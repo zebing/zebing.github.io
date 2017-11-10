@@ -40,7 +40,7 @@ $ apt-get install mysql-server
 ### 安装php7.0
 
 ``` bash
-$ apt-get -y install php7.0-fpm php-mysql
+$ apt-get -y install php7.0-fpm php7.0-mysql php7.0-curl 
 ```
 安装完之后,要改掉php配置中的 fix_pathinfo 潜在安全漏洞
 
