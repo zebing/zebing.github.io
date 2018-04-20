@@ -3,11 +3,11 @@
   <title>zebing的博客</title>
   <icon>https://www.gravatar.com/avatar/018de28bcd91e4a9ab38539376674f3d</icon>
   <subtitle>认真勤奋有想法</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/zebing.github.io/atom.xml" rel="self"/>
   
-  <link href="//zebingfu.cn/"/>
+  <link href="//zebingfu.cn/zebing.github.io/"/>
   <updated>2018-04-20T03:53:14.752Z</updated>
-  <id>//zebingfu.cn/</id>
+  <id>//zebingfu.cn/zebing.github.io/</id>
   
   <author>
     <name>zebing</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>web文件上传全解</title>
-    <link href="//zebingfu.cn/2017/11/10/20171110/"/>
-    <id>//zebingfu.cn/2017/11/10/20171110/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/11/10/20171110/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/11/10/20171110/</id>
     <published>2017-11-10T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -32,16 +32,16 @@
     </summary>
     
     
-      <category term="javascript" scheme="//zebingfu.cn/tags/javascript/"/>
+      <category term="javascript" scheme="//zebingfu.cn/zebing.github.io/tags/javascript/"/>
     
-      <category term="前端" scheme="//zebingfu.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="//zebingfu.cn/zebing.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>docker</title>
-    <link href="//zebingfu.cn/2017/11/06/20171106/"/>
-    <id>//zebingfu.cn/2017/11/06/20171106/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/11/06/20171106/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/11/06/20171106/</id>
     <published>2017-11-06T12:41:22.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -54,14 +54,14 @@
     </summary>
     
     
-      <category term="docker" scheme="//zebingfu.cn/tags/docker/"/>
+      <category term="docker" scheme="//zebingfu.cn/zebing.github.io/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>linux命令</title>
-    <link href="//zebingfu.cn/2017/09/15/20170915linux/"/>
-    <id>//zebingfu.cn/2017/09/15/20170915linux/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/09/15/20170915linux/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/09/15/20170915linux/</id>
     <published>2017-09-15T13:05:02.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -74,14 +74,14 @@
     </summary>
     
     
-      <category term="linux" scheme="//zebingfu.cn/tags/linux/"/>
+      <category term="linux" scheme="//zebingfu.cn/zebing.github.io/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>javascript继承</title>
-    <link href="//zebingfu.cn/2017/07/30/20170630-javascript%E7%BB%A7%E6%89%BF/"/>
-    <id>//zebingfu.cn/2017/07/30/20170630-javascript继承/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/07/30/20170630-javascript%E7%BB%A7%E6%89%BF/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/07/30/20170630-javascript继承/</id>
     <published>2017-07-30T13:05:02.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -96,14 +96,14 @@
     </summary>
     
     
-      <category term="javascript" scheme="//zebingfu.cn/tags/javascript/"/>
+      <category term="javascript" scheme="//zebingfu.cn/zebing.github.io/tags/javascript/"/>
     
   </entry>
   
   <entry>
     <title>mysql数据库存储引擎</title>
-    <link href="//zebingfu.cn/2017/07/27/mysql-2017-07-27/"/>
-    <id>//zebingfu.cn/2017/07/27/mysql-2017-07-27/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/07/27/mysql-2017-07-27/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/07/27/mysql-2017-07-27/</id>
     <published>2017-07-27T09:36:55.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -118,14 +118,14 @@
     </summary>
     
     
-      <category term="mysql" scheme="//zebingfu.cn/tags/mysql/"/>
+      <category term="mysql" scheme="//zebingfu.cn/zebing.github.io/tags/mysql/"/>
     
   </entry>
   
   <entry>
     <title>图片懒加载</title>
-    <link href="//zebingfu.cn/2017/06/15/lazy-20170615/"/>
-    <id>//zebingfu.cn/2017/06/15/lazy-20170615/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/06/15/lazy-20170615/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/06/15/lazy-20170615/</id>
     <published>2017-06-15T04:41:48.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -142,16 +142,16 @@
     </summary>
     
     
-      <category term="javascript" scheme="//zebingfu.cn/tags/javascript/"/>
+      <category term="javascript" scheme="//zebingfu.cn/zebing.github.io/tags/javascript/"/>
     
-      <category term="懒加载" scheme="//zebingfu.cn/tags/%E6%87%92%E5%8A%A0%E8%BD%BD/"/>
+      <category term="懒加载" scheme="//zebingfu.cn/zebing.github.io/tags/%E6%87%92%E5%8A%A0%E8%BD%BD/"/>
     
   </entry>
   
   <entry>
     <title>php 自动加载</title>
-    <link href="//zebingfu.cn/2017/06/11/hp-autoload/"/>
-    <id>//zebingfu.cn/2017/06/11/hp-autoload/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/06/11/hp-autoload/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/06/11/hp-autoload/</id>
     <published>2017-06-11T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -165,16 +165,16 @@
     </summary>
     
     
-      <category term="php" scheme="//zebingfu.cn/tags/php/"/>
+      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
     
-      <category term="自动加载" scheme="//zebingfu.cn/tags/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD/"/>
+      <category term="自动加载" scheme="//zebingfu.cn/zebing.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD/"/>
     
   </entry>
   
   <entry>
     <title>javascript设计模式之单例模式</title>
-    <link href="//zebingfu.cn/2017/06/07/javascriptdanlimoshi/"/>
-    <id>//zebingfu.cn/2017/06/07/javascriptdanlimoshi/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/06/07/javascriptdanlimoshi/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/06/07/javascriptdanlimoshi/</id>
     <published>2017-06-07T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -191,18 +191,18 @@
     </summary>
     
     
-      <category term="javascript" scheme="//zebingfu.cn/tags/javascript/"/>
+      <category term="javascript" scheme="//zebingfu.cn/zebing.github.io/tags/javascript/"/>
     
-      <category term="设计模式" scheme="//zebingfu.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="//zebingfu.cn/zebing.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
-      <category term="单例模式" scheme="//zebingfu.cn/tags/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+      <category term="单例模式" scheme="//zebingfu.cn/zebing.github.io/tags/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>nginx配置pathinfo方法</title>
-    <link href="//zebingfu.cn/2017/06/03/pathinfo/"/>
-    <id>//zebingfu.cn/2017/06/03/pathinfo/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/06/03/pathinfo/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/06/03/pathinfo/</id>
     <published>2017-06-03T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -218,20 +218,20 @@
     </summary>
     
     
-      <category term="php" scheme="//zebingfu.cn/tags/php/"/>
+      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
     
-      <category term="nginx" scheme="//zebingfu.cn/tags/nginx/"/>
+      <category term="nginx" scheme="//zebingfu.cn/zebing.github.io/tags/nginx/"/>
     
-      <category term="thinkphp" scheme="//zebingfu.cn/tags/thinkphp/"/>
+      <category term="thinkphp" scheme="//zebingfu.cn/zebing.github.io/tags/thinkphp/"/>
     
-      <category term="pathinfo" scheme="//zebingfu.cn/tags/pathinfo/"/>
+      <category term="pathinfo" scheme="//zebingfu.cn/zebing.github.io/tags/pathinfo/"/>
     
   </entry>
   
   <entry>
     <title>ubuntu 16.04 composer的安装，卸载及使用国内镜像</title>
-    <link href="//zebingfu.cn/2017/06/01/composer/"/>
-    <id>//zebingfu.cn/2017/06/01/composer/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/06/01/composer/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/06/01/composer/</id>
     <published>2017-06-01T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -248,18 +248,18 @@
     </summary>
     
     
-      <category term="php" scheme="//zebingfu.cn/tags/php/"/>
+      <category term="ubuntu" scheme="//zebingfu.cn/zebing.github.io/tags/ubuntu/"/>
     
-      <category term="ubuntu" scheme="//zebingfu.cn/tags/ubuntu/"/>
+      <category term="composer" scheme="//zebingfu.cn/zebing.github.io/tags/composer/"/>
     
-      <category term="composer" scheme="//zebingfu.cn/tags/composer/"/>
+      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>ubuntu 16.04 搭建lnmp环境</title>
-    <link href="//zebingfu.cn/2017/05/20/ubuntu-16-04/"/>
-    <id>//zebingfu.cn/2017/05/20/ubuntu-16-04/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/05/20/ubuntu-16-04/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/05/20/ubuntu-16-04/</id>
     <published>2017-05-20T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
@@ -276,22 +276,22 @@
     </summary>
     
     
-      <category term="php" scheme="//zebingfu.cn/tags/php/"/>
+      <category term="ubuntu" scheme="//zebingfu.cn/zebing.github.io/tags/ubuntu/"/>
     
-      <category term="ubuntu" scheme="//zebingfu.cn/tags/ubuntu/"/>
+      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
     
-      <category term="mysql" scheme="//zebingfu.cn/tags/mysql/"/>
+      <category term="mysql" scheme="//zebingfu.cn/zebing.github.io/tags/mysql/"/>
     
-      <category term="nginx" scheme="//zebingfu.cn/tags/nginx/"/>
+      <category term="nginx" scheme="//zebingfu.cn/zebing.github.io/tags/nginx/"/>
     
-      <category term="phpmyadmin" scheme="//zebingfu.cn/tags/phpmyadmin/"/>
+      <category term="phpmyadmin" scheme="//zebingfu.cn/zebing.github.io/tags/phpmyadmin/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="//zebingfu.cn/2017/05/19/hello-world/"/>
-    <id>//zebingfu.cn/2017/05/19/hello-world/</id>
+    <link href="//zebingfu.cn/zebing.github.io/2017/05/19/hello-world/"/>
+    <id>//zebingfu.cn/zebing.github.io/2017/05/19/hello-world/</id>
     <published>2017-05-19T06:48:00.000Z</published>
     <updated>2018-04-20T03:53:14.752Z</updated>
     
