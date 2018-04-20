@@ -38,25 +38,6 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/11/10/20171110/</loc>
-    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
-    <data>
-        <display>
-        <title>web文件上传全解</title>
-        <pubTime>2017-11-10T06:48:00.000Z</pubTime>
-        
-        <tag>javascript</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/11/06/20171106/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
@@ -74,13 +55,17 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/05/19/hello-world/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/11/10/20171110/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2017-05-19T06:48:00.000Z</pubTime>
+        <title>web文件上传全解</title>
+        <pubTime>2017-11-10T06:48:00.000Z</pubTime>
         
+        <tag>javascript</tag>
+         
+        <tag>前端</tag>
+         
          
            
         </display>
@@ -110,19 +95,13 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/07/javascriptdanlimoshi/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/05/19/hello-world/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>javascript设计模式之单例模式</title>
-        <pubTime>2017-06-07T06:48:00.000Z</pubTime>
+        <title>Hello World</title>
+        <pubTime>2017-05-19T06:48:00.000Z</pubTime>
         
-        <tag>javascript</tag>
-         
-        <tag>设计模式</tag>
-         
-        <tag>单例模式</tag>
-         
          
            
         </display>
@@ -141,6 +120,27 @@
         <tag>php</tag>
          
         <tag>自动加载</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/07/javascriptdanlimoshi/</loc>
+    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
+    <data>
+        <display>
+        <title>javascript设计模式之单例模式</title>
+        <pubTime>2017-06-07T06:48:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>设计模式</tag>
+         
+        <tag>单例模式</tag>
          
          
            

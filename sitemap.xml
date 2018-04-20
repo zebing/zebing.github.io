@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/2017/06/11/hp-autoload/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/2017/06/07/javascriptdanlimoshi/</loc>
     
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     
@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/2017/11/10/20171110/</loc>
-    
-    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>//zebingfu.cn/zebing.github.io/2017/11/06/20171106/</loc>
     
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
@@ -30,7 +23,7 @@
   </url>
   
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/2017/05/19/hello-world/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/2017/11/10/20171110/</loc>
     
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     
@@ -44,7 +37,14 @@
   </url>
   
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/2017/06/07/javascriptdanlimoshi/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/2017/05/19/hello-world/</loc>
+    
+    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>//zebingfu.cn/zebing.github.io/2017/06/11/hp-autoload/</loc>
     
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     
@@ -86,6 +86,13 @@
   </url>
   
   <url>
+    <loc>//zebingfu.cn/zebing.github.io/photos/index.html</loc>
+    
+    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>//zebingfu.cn/zebing.github.io/photos/data.json</loc>
     
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
@@ -94,13 +101,6 @@
   
   <url>
     <loc>//zebingfu.cn/zebing.github.io/photos/ins.json</loc>
-    
-    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>//zebingfu.cn/zebing.github.io/photos/index.html</loc>
     
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     
