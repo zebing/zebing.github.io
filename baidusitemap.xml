@@ -4,14 +4,20 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/07/27/mysql-2017-07-27/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/03/pathinfo/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>mysql数据库存储引擎</title>
-        <pubTime>2017-07-27T09:36:55.000Z</pubTime>
+        <title>nginx配置pathinfo方法</title>
+        <pubTime>2017-06-03T06:48:00.000Z</pubTime>
         
-        <tag>mysql</tag>
+        <tag>php</tag>
+         
+        <tag>nginx</tag>
+         
+        <tag>thinkphp</tag>
+         
+        <tag>pathinfo</tag>
          
          
            
@@ -38,14 +44,14 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/07/30/20170630-javascript%E7%BB%A7%E6%89%BF/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/11/06/20171106/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>javascript继承</title>
-        <pubTime>2017-07-30T13:05:02.000Z</pubTime>
+        <title>docker</title>
+        <pubTime>2017-11-06T12:41:22.000Z</pubTime>
         
-        <tag>javascript</tag>
+        <tag>docker</tag>
          
          
            
@@ -65,6 +71,27 @@
         <tag>javascript</tag>
          
         <tag>前端</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/01/composer/</loc>
+    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
+    <data>
+        <display>
+        <title>ubuntu 16.04 composer的安装，卸载及使用国内镜像</title>
+        <pubTime>2017-06-01T06:48:00.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+        <tag>composer</tag>
+         
+        <tag>php</tag>
          
          
            
@@ -108,18 +135,18 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/01/composer/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/07/javascriptdanlimoshi/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>ubuntu 16.04 composer的安装，卸载及使用国内镜像</title>
-        <pubTime>2017-06-01T06:48:00.000Z</pubTime>
+        <title>javascript设计模式之单例模式</title>
+        <pubTime>2017-06-07T06:48:00.000Z</pubTime>
         
-        <tag>php</tag>
+        <tag>javascript</tag>
          
-        <tag>ubuntu</tag>
+        <tag>设计模式</tag>
          
-        <tag>composer</tag>
+        <tag>单例模式</tag>
          
          
            
@@ -148,19 +175,15 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/07/javascriptdanlimoshi/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/07/30/20170630-javascript%E7%BB%A7%E6%89%BF/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>javascript设计模式之单例模式</title>
-        <pubTime>2017-06-07T06:48:00.000Z</pubTime>
+        <title>javascript继承</title>
+        <pubTime>2017-07-30T13:05:02.000Z</pubTime>
         
         <tag>javascript</tag>
          
-        <tag>设计模式</tag>
-         
-        <tag>单例模式</tag>
-         
          
            
         </display>
@@ -169,37 +192,14 @@
 
     
   <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/11/06/20171106/</loc>
+    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/07/27/mysql-2017-07-27/</loc>
     <lastmod>2018-04-20T03:53:14.752Z</lastmod>
     <data>
         <display>
-        <title>docker</title>
-        <pubTime>2017-11-06T12:41:22.000Z</pubTime>
+        <title>mysql数据库存储引擎</title>
+        <pubTime>2017-07-27T09:36:55.000Z</pubTime>
         
-        <tag>docker</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//zebingfu.cn/zebing.github.io/zebing.github.io/2017/06/03/pathinfo/</loc>
-    <lastmod>2018-04-20T03:53:14.752Z</lastmod>
-    <data>
-        <display>
-        <title>nginx配置pathinfo方法</title>
-        <pubTime>2017-06-03T06:48:00.000Z</pubTime>
-        
-        <tag>php</tag>
-         
-        <tag>nginx</tag>
-         
-        <tag>thinkphp</tag>
-         
-        <tag>pathinfo</tag>
+        <tag>mysql</tag>
          
          
            
@@ -216,13 +216,13 @@
         <title>ubuntu 16.04 搭建lnmp环境</title>
         <pubTime>2017-05-20T06:48:00.000Z</pubTime>
         
-        <tag>php</tag>
-         
         <tag>ubuntu</tag>
          
-        <tag>mysql</tag>
+        <tag>php</tag>
          
         <tag>nginx</tag>
+         
+        <tag>mysql</tag>
          
         <tag>phpmyadmin</tag>
          

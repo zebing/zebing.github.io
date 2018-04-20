@@ -248,11 +248,11 @@
     </summary>
     
     
-      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
-    
       <category term="ubuntu" scheme="//zebingfu.cn/zebing.github.io/tags/ubuntu/"/>
     
       <category term="composer" scheme="//zebingfu.cn/zebing.github.io/tags/composer/"/>
+    
+      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
     
   </entry>
   
@@ -276,13 +276,13 @@
     </summary>
     
     
-      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
-    
       <category term="ubuntu" scheme="//zebingfu.cn/zebing.github.io/tags/ubuntu/"/>
     
-      <category term="mysql" scheme="//zebingfu.cn/zebing.github.io/tags/mysql/"/>
+      <category term="php" scheme="//zebingfu.cn/zebing.github.io/tags/php/"/>
     
       <category term="nginx" scheme="//zebingfu.cn/zebing.github.io/tags/nginx/"/>
+    
+      <category term="mysql" scheme="//zebingfu.cn/zebing.github.io/tags/mysql/"/>
     
       <category term="phpmyadmin" scheme="//zebingfu.cn/zebing.github.io/tags/phpmyadmin/"/>
     
